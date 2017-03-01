@@ -1,0 +1,99 @@
+/* CSS Stylesheet by Francheska Guzman */
+
+/* Sections */
+
+body {
+	margin: 0%;
+	padding: 0%;
+	background-color: #003333;
+}
+
+div {
+	background-color: #002633;
+	padding: 20px;
+}
+
+footer {
+	background-color: #bfbfbf;
+	padding: 20px;
+}
+
+/* Headings and other types of text */
+
+h1 {
+	color: #FFFFFF;
+	font-size: 50px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h2 {
+	color: #336699;
+	font-size: 30px;
+	font-family: helvetica;
+}
+
+h3 {
+	color: #006699;
+	font-size: 24px;
+	font-family: arial;
+}
+
+h4 {
+	color: #003333;
+	font-size: 14px;
+	font-family: arial;
+	text-align: center;
+}
+
+p {
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: helvetica;
+}
+
+span {
+	font-size: 40px;
+	color: #003333;
+}
+
+a {
+	color: #ff8000;
+}
+
+ul {
+	text-align: left;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: helvetica;
+}
+
+/* All about the table */
+
+table {
+	width: 100%;
+	background-color: #e6e6e6;
+	padding: 10px;
+}
+
+th, td { /* Change table row and table data properties at the same time. */
+	text-align: center;
+	color: #193366;
+	font-family: helvetica;
+	padding: 10px;
+}
+
+th {
+	font-size: 20px;
+}
+
+td {
+	font-size: 16px;
+}
+
+img {
+	width: 380px;
+	height: 250px;
+	padding: 3px;
+	background-color: #003333;
+}
