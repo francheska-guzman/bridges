@@ -7,7 +7,7 @@
 3. [How to use](#instructions)
 4. [Technologies used](#technologies)
 
-## About the Project
+## <a id="about">About the Project</a>
 
 Per Scholas' CodeBridge Program, Cohort 4
 <br />
@@ -15,15 +15,17 @@ Project 1
 <br />
 Developed by Francheska Guzman
 
-## Description
+</a>
+
+## <a id="description">Description</a>
 
 Provide information about bridges around the World.
 
-## How to use
+## <a id="instructions">How to use</a>
 
 Visit the site. Notice that you can click over the images to get more information.
 
-## Technologies used
+## <a id="technologies">Technologies used</a>
 
 * HTML
 * CSS
