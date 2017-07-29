@@ -10,11 +10,11 @@ body {
 
 div {
 	background-color: #002633;
-	padding: 20px;
+	padding: 40px 20px 55px 20px;
 }
 
 footer {
-	background-color: #bfbfbf;
+	background-color: #e8e5e5;
 	padding: 20px;
 }
 
@@ -58,7 +58,12 @@ span {
 }
 
 a {
-	color: #ff8000;
+	color: #BC5F01;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #E87A0B;
 }
 
 ul {
@@ -72,8 +77,8 @@ ul {
 
 table {
 	width: 100%;
-	background-color: #e6e6e6;
-	padding: 10px;
+	background-color: #E6E6E6;
+	padding: 20px;
 }
 
 th, td { /* Change table row and table data properties at the same time. */
@@ -88,7 +93,7 @@ th {
 }
 
 td {
-	font-size: 16px;
+	font-size: 14px;
 }
 
 img {
@@ -96,4 +101,10 @@ img {
 	height: 250px;
 	padding: 3px;
 	background-color: #003333;
+}
+
+/* Classes */
+
+.center {
+	text-align: center;
 }
